@@ -1,2 +1,2 @@
-nodule_modules/*
-.vscoe
+node_modules/
+.vscode
